@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QDshowRecordToMp4", "QDshowRecordToMp4.vcxproj", "{A519E0F5-3FBF-498E-9F2D-08F71C4C0729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A519E0F5-3FBF-498E-9F2D-08F71C4C0729}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A519E0F5-3FBF-498E-9F2D-08F71C4C0729}.Debug|Win32.Build.0 = Debug|Win32
+		{A519E0F5-3FBF-498E-9F2D-08F71C4C0729}.Release|Win32.ActiveCfg = Release|Win32
+		{A519E0F5-3FBF-498E-9F2D-08F71C4C0729}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
